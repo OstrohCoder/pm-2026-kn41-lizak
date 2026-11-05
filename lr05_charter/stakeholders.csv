@@ -5,3 +5,4 @@ ST-03,"Особа, що видає обладнання",академія (го�
 ST-04,Комендант корпусу,академія,low,high,neutral,keep_satisfied,PM
 ST-05,Представники студентських організацій,студентські організації,high,low,blocker,keep_informed,BA
 ST-06,Керівництво академії (спонсор проєкту),академія,low,high,neutral,keep_satisfied,PM
+ST-07,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM

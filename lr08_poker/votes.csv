@@ -44,3 +44,12 @@ S-20,1,pessimistic,13
 S-02,2,optimistic,3
 S-02,2,likely,5
 S-02,2,pessimistic,8
+S-21,1,optimistic,3
+S-21,1,likely,5
+S-21,1,pessimistic,8
+S-22,1,optimistic,2
+S-22,1,likely,3
+S-22,1,pessimistic,5
+S-23,1,optimistic,1
+S-23,1,likely,2
+S-23,1,pessimistic,3
