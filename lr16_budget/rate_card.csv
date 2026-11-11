@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+PM,0.5,280,393,https://dou.ua/lenta/articles/salary-report-managers-winter-2026/,Посередині між Middle і Senior PM за DOU
+BA,0.25,140,383,https://dou.ua/lenta/articles/salary-report-managers-winter-2026/,Припущення 0.75 від Dev: окремого числа для BA в огляді не знайшов
+Dev,2.0,1120,510,https://mezha.ua/news/ukrainian-developers-salary-winter-2026-307670/amp/,Два розробники по 100% за однією ставкою; база для решти співвідношень
+QA,0.5,280,332,https://dou.ua/lenta/articles/salary-report-qa-winter-2026/,Ставка 0.65 від Dev за медіанами DOU
+DevOps,0.5,280,561,https://news.finance.ua/ua/skil-ky-zaroblyayut-devops-v-ukraini-ta-za-kordonom,Вище за Dev приблизно на 10% за DOU
