@@ -1,1 +1,5 @@
-metric_id,metric,value,source_file,reader,threshold,decision
+metric_id, metric, value, source_file, reader, threshold, decision
+MT-01,Cycle time P85,1 день,lr14_metrics/flow.csv,ST-08,більше 3 днів,"розбиваю картку і історію до розміру одного дня і розбираю, що чекало в Ready чи Backlog"
+MT-02,Прогноз P85 за залишком points,2026-12-18,lr09_forecast/forecast.csv,ST-01,пізніше за 2027-03-29,"прибираю S-16 і S-07 з першого релізу і дзвоню замовнику"
+MT-03,Ризиків червоної зони (score 15 і вище),4,lr11_risks_quality/risks.csv,ST-06,більше 5,"зупиняю нові історії спринта і ескалую найвищий ризик спонсору"
+MT-04,Технічний борг від стелі годин,"1.7% (36 годин)",lr11_risks_quality/techdebt.csv,ST-09,"більше 5% (105 годин)","беру борг із найбільшою кількістю годин у наступний спринт замість нової історії"
